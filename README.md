@@ -29,7 +29,7 @@ Possible additional constraints
 
 
 ## Deadlines and products
-At each stage, unless otherwise specified, upload (push) your materials to your own copy of this assignment repository. I recommend that you **save often, using meaningful commit messages**; please keep your filenames clear, lowercase, and space-free (use hyphens or underscores).
+At each stage, unless otherwise specified, upload (push) your materials to your own copy of this assignment repository. I recommend that you **save often, using meaningful commit messages**; for best results, please keep your filenames clear, lowercase, and space-free (use hyphens or underscores).
 
 
 | date | what's due | expected files |
