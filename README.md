@@ -19,6 +19,15 @@ Possible additional constraints
 * Use at least one sound longer than 25 seconds and at least one sound shorter than 5 seconds
 -->
 
+## Setup
+1. Now that you've copied this assignment repository, you'll want a local copy on your computer. [Follow the cloning instructions](https://help.github.com/articles/cloning-a-repository/) for your operating system, making sure to put the cloned folder in a place on your computer where you can easily find it.
+2. Because sound files can take up a lot of space, we'll be using [Git Large File Storage](https://git-lfs.github.com/), an add-on service that lets you designate certain file extensions as worth tracking and storing off-site, rather than directly in your repository.
+   * I've already set up this folder to track .wav, .mp3, and .ogg files this way, but you'll need to install the LFS service to make it work.
+   * Simply go to that URL, download, enter the command in step 1, and you're on your way: I've done step 2 for this repo, and there is no step 3!
+
+
+
+
 ## Deadlines and products
 At each stage, unless otherwise specified, upload (push) your materials to your own copy of this assignment repository. I recommend that you **save often, using meaningful commit messages**; please keep your filenames clear, lowercase, and space-free (use hyphens or underscores).
 
