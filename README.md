@@ -7,12 +7,27 @@ As you start planning your composition, consider: in what place (physical, virtu
 You don't need answers to all of these questions before getting started, but asking them early and returning to them often could help you get a sense of the soundscape you want to make.
 
 ## Generative constraints
-We can revisit these after we get into the midst of composing, but to get you started:
+Updated [on Thursday, 2019-01-24](https://pitt-cdm.github.io/miller2019spring/plans/lesson-06):
 
-* At least 75% of the sounds should be original recordings by you or your classmates.
-* At least one of the sounds should be an original recording by you.
-* At least once, you should have four layers of sound overlapping.
-* The final product should play for no less than three minutes, and no more than four.
+### Baseline Criteria
+For a minimum grade of B, all projects for this unit must…
+* Contain at least 1 minute of original recordings by you or your classmates.
+* Contain at least one sound originally recorded by you.
+* Have three layers (tracks) of sound overlapping at least once in the file
+* Play for 2-4 minutes
+* Have something change from the beginning to the end of the piece
+
+_Update: GitHub is no longer required for baseline; you can use Box to share files._
+
+### Aspirational Inspirations
+To target (but not guarantee) a grade above a B, the best projects for this unit may…
+* Transitions occur at meaningful points in the narrative (e.g. the music’s volume and alignment occur together)
+* Have four or more layers (tracks) of sound overlapping at least once in the file
+* Have three or more layers (tracks) of sound overlapping more than once in the file
+* Incorporate ~mystery sound~
+* Use Github for commit/version history. If you are already familiar with Github, use new features of Github that you haven’t used before!
+* Use effects in Audacity
+
 
 <!--
 Possible additional constraints
